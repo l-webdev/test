@@ -6,6 +6,10 @@ something about me
   - Cats
   - Giraffes
 
+- Go to [Checkbox list](#checkbox-list)
+- Go to [second Heading 2](#second-heading-2)
+- Got to [this link](https://www.ecosia.org/) to open Ecosia
+
 ## Checkbox list
 
 - [ ] test
